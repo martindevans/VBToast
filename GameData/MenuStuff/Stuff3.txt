@@ -1,0 +1,7 @@
+The aim of the game is to collect all the melons in a level, and then get to the red exit portal - to progress to the next level. Watch out though, there are a few risks!
+
+1) Time, the yellow bar down the left of the screen is the time, if it gets to zero you will lose a life and respawn
+
+2) enemy toast, these toasts cannot be killed, and if you touch them you will die and respawn at the start again
+
+3) The edge, fall off the level and you will die and respawn
